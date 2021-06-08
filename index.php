@@ -100,13 +100,6 @@
 
 <hr>
 
-<!--<div class="form-group pull-left">
-<img src="captcha.php" />
-
-            </div>
-            <div class="form-group pull-right">
-                <div class="input-icon right"><input type="text" placeholder="Captcha" name="captcha" class="form-control" required></div>
-            </div>-->
 
 
           

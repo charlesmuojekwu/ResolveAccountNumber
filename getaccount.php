@@ -1,7 +1,7 @@
 <?php
 
 /// PAYSTACK SECRET KEY
-$key='sk_test_af3a5d2bbb397b4dd62af09ed9a6b4ba45c14676';
+$key='';
 
 // GET BANK CODE
  $bank=$_GET['bankCode']; 
